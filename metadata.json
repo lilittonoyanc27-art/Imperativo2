@@ -1,0 +1,6 @@
+{
+  "name": "Imperativo - Իսպաներեն",
+  "description": "Իսպաներենի հրամայական եղանակի (Imperativo) ուսուցման և պրակտիկայի ինտերակտիվ հարթակ հայերեն տեքստերով և 5 ուսուցողական խաղերով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
